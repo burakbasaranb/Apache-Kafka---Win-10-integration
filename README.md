@@ -1,5 +1,5 @@
 
-# Apache Kafka - Win10 Integration
+# Apache Kafka - Win10 Installation
 
 #### STEP 1: Install JAVA JDK and JVM
 Download Link: https://www.java.com/tr/download/
