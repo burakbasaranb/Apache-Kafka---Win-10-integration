@@ -50,7 +50,7 @@ Download Link: https://kafka.apache.org/downloads
 	.\bin\windows\kafka-console-producer.bat --topic topic_demo --bootstrap-server localhost:9092
 ```
 - 6.2. White line by line what you want
-- 6.3. Exit press Ctrl + C
+- 6.3. to Exit press Ctrl + C
 
 #### STEP 7:  READ THE EVENTS
 - 7.1. Read from "topic_demo" topic
