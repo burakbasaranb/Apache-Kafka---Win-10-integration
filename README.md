@@ -6,7 +6,7 @@ Download Link: https://www.java.com/tr/download/
 
 #### STEP 2: DOWNLOAD AND INSTALL KAFKA
 Download Link: https://kafka.apache.org/downloads
-- 2.1. Download last version as "kafka-3.4.0-src.tgz"
+- 2.1. Download last version of Binary as "kafka_2.12-3.4.0.tgz"
 - 2.2. Use 7zip and unzip .tgz then .tar 
 
 #### STEP 3: START THE KAFKA ENVIRONMENT
